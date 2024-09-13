@@ -35,7 +35,7 @@
 	--bg-1: hsl(0, 0%, 20%); /* dark buttons when clicked */
 	--bg-2: hsl(0, 0%, 16%); /* dark buttons */
 	--bg-3: hsl(0, 0%, 13%); /* spacing, secondary elements */
-	--bg-4: hsl(0, 0%, 7%); /* main background color */
+	--bg-4: #121212; /* main background color */
 	--hover: hsla(0, 0%, 40%, 0.1); /* channels and buttons when hovered */
 	--active: hsla(0, 0%, 40%, 0.2); /* channels and buttons when clicked or selected */
 	--message-hover: hsla(0, 0%, 0%, 0.1); /* messages when hovered */
@@ -65,4 +65,3 @@
 	--blurple-to-accent-3-filter: hue-rotate(304deg) saturate(0.84) brightness(1.2); /* add friend page school icon */
 
 }
-
